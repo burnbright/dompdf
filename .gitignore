@@ -1,6 +1,7 @@
-dompdf/lib/fonts/Helvetica-Bold.afm.php
-dompdf/lib/fonts/Helvetica-Oblique.afm.php
-dompdf/lib/fonts/Helvetica.afm.php
-dompdf/lib/fonts/Times-Bold.afm.php
-dompdf/lib/fonts/Times-Roman.afm.php
+dompdf/lib/fonts/php_*
+dompdf/lib/fonts/*.ttf
+dompdf/lib/fonts/*.afm
+dompdf/lib/fonts/*.afm.php
+dompdf/lib/fonts/*.ufm
+dompdf/lib/fonts/*.ufm.php
 dompdf/lib/fonts/log.htm
